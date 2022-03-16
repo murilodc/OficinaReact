@@ -1,5 +1,5 @@
 <h1 align="center">
-  Template minicurso ReactJS
+  Oficina de ReactJs - Criação de uma TodoList
 </h1>
 
 ## 💻 Projeto
